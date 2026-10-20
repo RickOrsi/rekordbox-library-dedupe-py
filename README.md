@@ -1,7 +1,3 @@
-# rekordbox-library-dedupe-py
-Find duplicate tracks in your rekordbox library, keep one copy and remap playlists to it. Terminal UI build for macOS, no dependencies.
-
-
 # Rekordbox Dedupe
 
 **Trova i brani duplicati nella tua collezione rekordbox, tieni una sola copia e rimappa le playlist sulla copia tenuta. Interfaccia da terminale (TUI) per macOS.**
